@@ -162,7 +162,14 @@ var APP_DATA = {
           "target": "2-r0010084"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.879034036282505,
+          "pitch": 1.47811786883738705,
+          "title": "Prova2",
+          "text": "PROVAPRAOAWDA"
+        }
+      ]
     }
   ],
   "name": "Project Title",
