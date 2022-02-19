@@ -30,22 +30,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.8096485862855936,
-          "pitch": 0.181072264752828,
+          "yaw": -0.8146754605160726,
+          "pitch": 0.11562916788247968,
           "rotation": 0.7853981633974483,
           "target": "1-corridoio1"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 2.595563582874151,
-          "pitch": 0.12247338468654334,
+          "yaw": 2.5885761806122325,
+          "pitch": 0.05454108125763568,
           "title": "Stanzino",
           "text": "Stanzino personale A.T.A."
         },
         {
-          "yaw": 1.7695023008818325,
-          "pitch": 0.10543459606514816,
+          "yaw": 1.7744730231106374,
+          "pitch": 0.01639410935222685,
           "title": "Entrata principale",
           "text": "Ingresso/Uscita"
         }
@@ -81,20 +81,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.3893404147627173,
-          "pitch": 0.1259762513850191,
+          "yaw": -2.4011751083053454,
+          "pitch": 0.07281143238309795,
           "rotation": 5.497787143782138,
           "target": "0-ingresso"
         },
         {
-          "yaw": 2.376737176317138,
-          "pitch": 0.12498631628385759,
+          "yaw": 2.358050127964492,
+          "pitch": 0.05112172868658149,
           "rotation": 0,
           "target": "6-aula19"
         },
         {
-          "yaw": 2.9344156191553257,
-          "pitch": 0.09316717486892045,
+          "yaw": 2.923289763374253,
+          "pitch": 0.05220855029050142,
           "rotation": 0,
           "target": "5-lab18"
         },
@@ -144,40 +144,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.111674583045346,
-          "pitch": 0.19568982661515122,
+          "yaw": -1.1168396914065912,
+          "pitch": 0.040693181173338644,
           "rotation": 0,
           "target": "1-corridoio1"
         },
         {
-          "yaw": -3.0998967297593865,
-          "pitch": 0.14857183896364923,
+          "yaw": -3.1010191142021846,
+          "pitch": 0.03511921959965747,
           "rotation": 0,
           "target": "8-lab21"
         },
         {
-          "yaw": -2.5134822891495503,
-          "pitch": 0.16104151367552078,
+          "yaw": -2.5150050261753574,
+          "pitch": 0.05011650350768804,
           "rotation": 0,
           "target": "7-aula20"
         },
         {
-          "yaw": 2.055043099828498,
-          "pitch": 0.1468959063236941,
+          "yaw": 2.0566167603514707,
+          "pitch": 0.04245188539652922,
           "rotation": 0,
           "target": "3-corridoio3"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 2.7772915262009565,
-          "pitch": 0.0912846370791307,
+          "yaw": 2.7864655517912276,
+          "pitch": 0.06979604449347931,
           "title": "Stanzino",
           "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Stanzino tecnico</span>"
         },
         {
-          "yaw": -0.02366218738617576,
-          "pitch": 0.1343487691614378,
+          "yaw": -0.023020823897553555,
+          "pitch": 0.040024900669857644,
           "title": "Bagno",
           "text": "Bagno docenti"
         }
@@ -213,40 +213,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.0579931348084024,
-          "pitch": 0.21350700754379304,
+          "yaw": 1.0608631376436115,
+          "pitch": 0.03540094365345858,
           "rotation": 0,
           "target": "2-corridoio2"
         },
         {
-          "yaw": -0.20626630987332994,
-          "pitch": 0.18095906518001037,
+          "yaw": -0.20218360218347442,
+          "pitch": 0.029373139097717882,
           "rotation": 0,
           "target": "9-lab22"
         },
         {
-          "yaw": -0.788032363395347,
-          "pitch": 0.1627785106321724,
+          "yaw": -0.7986043180182776,
+          "pitch": 0.024469066401781703,
           "rotation": 0,
           "target": "10-aula23"
         },
         {
-          "yaw": -2.037733896979553,
-          "pitch": 0.14828526158103372,
+          "yaw": -2.036591836335326,
+          "pitch": 0.03824912584374296,
           "rotation": 0,
           "target": "4-corridoio4"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.18718471360283573,
-          "pitch": 0.08397806436830457,
+          "yaw": 0.1837736201115927,
+          "pitch": 0.047945989596295036,
           "title": "Stanzino",
           "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Stanzino tecnico</span>"
         },
         {
-          "yaw": -2.982440898062512,
-          "pitch": 0.14165930872467491,
+          "yaw": -2.9839064236175137,
+          "pitch": 0.05469115687493442,
           "title": "Bagno",
           "text": "Bagno maschi"
         }
@@ -282,28 +282,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.0009630548788983617,
-          "pitch": 0.2475065084509751,
+          "yaw": 0.0014038112146543824,
+          "pitch": 0.06370441920492276,
           "rotation": 0,
           "target": "3-corridoio3"
         },
         {
-          "yaw": -1.5092722760890531,
-          "pitch": 0.1656646118026508,
+          "yaw": -1.5136002433697602,
+          "pitch": 0.0631777560682707,
           "rotation": 0,
           "target": "11-aula24"
         },
         {
-          "yaw": -2.117872830474152,
-          "pitch": 0.14565678325824827,
+          "yaw": -2.1217807084579086,
+          "pitch": 0.04427917004738191,
           "rotation": 0,
           "target": "12-lab25"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -3.0532791460179496,
-          "pitch": 0.1520358286837098,
+          "yaw": -3.043567332148278,
+          "pitch": -0.002038280163567663,
           "title": "Uscita",
           "text": "Uscita d'emergenza"
         }
@@ -618,7 +618,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
